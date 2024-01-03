@@ -1,5 +1,8 @@
-div{
+.d1{
     background-color: tomato;
     padding: 10px;
     margin-bottom: 10px;
+}
+#ol1{
+    font-weight: bold;
 }
